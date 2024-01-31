@@ -11,8 +11,8 @@ theme: /
         a: Привет привет
 
     state: Bye
-        intent!: /пока
-        a: Пока пока
+        intent!: /скажи на корякском
+        a: робот говорит на корякском
 
     state: NoMatch
         event!: noMatch
